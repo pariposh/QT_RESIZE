@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------------------------------
+PURCHASING
+---------------------------------------------------------------------------------------------------
+QT_RESIZE is available as a commercial productivity tool for Qt developers and embedded GUI teams.
+
+For licensing, pricing, enterprise usage, or custom feature requests, contact directly.
+
+Contact
+
+For purchasing, support:
+
+📧 Email   : pariposhpandagre@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/pariposh
+🐙 GitHub  : https://github.com/pariposh
+---------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+HOW TO : 
+-----------------------------------------------------------------------
+1.Place EXTRACT_UI_ELEMENTS.exe inside the Qt project directory
+2.Ensure the .ui file is present
+3.Run the tool
+4.Generated widget data and resize code will be created automatically
+5.Integrate the generated code into your Qt application
+-----------------------------------------------------------------------
+
+----------------------------
+Compatibility
+----------------------------
+Qt 5.x
+Qt 6.x
+QWidget-based projects
+Windows
+Embedded Linux environments
+----------------------------
